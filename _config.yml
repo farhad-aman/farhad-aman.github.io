@@ -21,7 +21,7 @@ repository               : "farhad-aman/farhad-aman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Farhad Aman"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering at Amirkabir University of Technology"
