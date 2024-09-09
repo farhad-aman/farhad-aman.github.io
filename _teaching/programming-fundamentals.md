@@ -7,7 +7,7 @@ venue: "Amirkabir University of Technology, Department of Computer Engineering"
 date: 2021-09-01
 location: "Tehran, Iran"
 ---
-An undergraduate-level course taught by Prof. Zeinali at the Amirkabir University of Technology (Sep 2021).
+An undergraduate-level course taught by Prof. [Zeinali](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) at the Amirkabir University of Technology (Sep 2021).
 
 ## Responsibilities
 

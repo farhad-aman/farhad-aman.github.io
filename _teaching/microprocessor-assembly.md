@@ -7,7 +7,7 @@ venue: "Amirkabir University of Technology, Department of Computer Engineering"
 date: 2023-09-01
 location: "Tehran, Iran"
 ---
-An undergraduate-level course taught by Prof. Farbeh at the Amirkabir University of Technology (Sep 2023).
+An undergraduate-level course taught by Prof. [Farbeh](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) at the Amirkabir University of Technology (Sep 2023).
 
 ## Responsibilities
 

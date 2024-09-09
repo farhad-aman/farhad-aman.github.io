@@ -7,7 +7,7 @@ venue: "Amirkabir University of Technology, Department of Computer Engineering"
 date: 2024-09-01
 location: "Tehran, Iran"
 ---
-An undergraduate-level course taught by Prof. Gohari at the Amirkabir University of Technology.
+An undergraduate-level course taught by Prof. [Gohari](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) at the Amirkabir University of Technology.
 
 ## Responsibilities
 

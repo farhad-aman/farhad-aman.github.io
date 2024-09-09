@@ -7,7 +7,7 @@ venue: "Amirkabir University of Technology, Department of Computer Engineering"
 date: 2023-09-01
 location: "Tehran, Iran"
 ---
-An undergraduate-level course taught by Prof. Ziaei (Sep 2023), Prof. Roustaei (Sep 2022), and Professors Zeinali and Kalbasi (Feb 2022).
+An undergraduate-level course taught by Prof. [Ziaei](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) (Sep 2023), Prof. [Roustaei](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) (Sep 2022), and Professors [Zeinali](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) and [Kalbasi](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) (Feb 2022).
 
 ## Responsibilities
 

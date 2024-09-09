@@ -7,7 +7,7 @@ venue: "Amirkabir University of Technology, Department of Computer Engineering"
 date: 2024-02-01
 location: "Tehran, Iran"
 ---
-An undergraduate-level course taught by Prof. Shirali (Feb 2024, Sep 2023, Feb 2023).
+An undergraduate-level course taught by Prof. [Shirali](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) (Feb 2024, Sep 2023, Feb 2023).
 
 ## Responsibilities
 

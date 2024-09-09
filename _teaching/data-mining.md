@@ -7,7 +7,7 @@ venue: "Amirkabir University of Technology, Department of Computer Engineering"
 date: 2024-02-01
 location: "Tehran, Iran"
 ---
-An undergraduate-level course taught by Prof. Nazerfard at the Amirkabir University of Technology (Feb 2024).
+An undergraduate-level course taught by Prof. [Nazerfard](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) at the Amirkabir University of Technology (Feb 2024).
 
 ## Responsibilities
 
