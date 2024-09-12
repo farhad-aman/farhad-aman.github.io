@@ -10,4 +10,5 @@ redirect_from:
 {% include base_path %}
 
 You can download my academic CV from [here](https://github.com/farhad-aman/farhad-aman.github.io/raw/master/files/cv.pdf).
+
 Also you can download my transcript from [here](https://github.com/farhad-aman/farhad-aman.github.io/raw/master/files/transcript.pdf).
