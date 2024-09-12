@@ -7,7 +7,7 @@ author_profile: true
 
 ## Bachelor of Science in Computer Engineering at Amirkabir University of Technology
 
-- **Total GPA**: 18.12 (3.80/4)
+- **Total GPA**: 18.12 (3.89/4)
 - **Selected Courses**:
   - Advanced Programming 20/20
   - Algorithm Design 20/20
