@@ -9,10 +9,10 @@ redirect_from:
 
 ## Projects
 
-- [**ANN Using Numpy (Spring 2023)**](https://github.com/farhad-aman/ANN-computational-intelligence-spring2023)  
+- [**ANN Using Numpy**](https://github.com/farhad-aman/ANN-computational-intelligence-spring2023)  
   Implemented an Artificial Neural Network (ANN) architecture from scratch using only Numpy, focusing on foundational machine learning techniques.
 
-- [**Genetic Algorithm Using Numpy (Spring 2023)**](https://github.com/farhad-aman/genetic-computational-intelligence-spring2023)  
+- [**Genetic Algorithm Using Numpy**](https://github.com/farhad-aman/genetic-computational-intelligence-spring2023)  
   Implemented a Genetic Algorithm from scratch using Numpy, focused on solving optimization problems.
 
 - [**Pacman AI**](https://github.com/farhad-aman/pacman-AI)  
