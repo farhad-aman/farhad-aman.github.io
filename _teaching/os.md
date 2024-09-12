@@ -7,7 +7,7 @@ venue: "Amirkabir University of Technology, Department of Computer Engineering"
 date: 2023-09-01
 location: "Tehran, Iran"
 ---
-An undergraduate-level course taught by Prof. [Javadi](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) (Sep 2023, Feb 2023).
+An undergraduate-level course taught by Prof. [Javadi](https://scholar.google.com/citations?user=Va7RTUsAAAAJ&hl=en) (Sep 2023, Feb 2023).
 
 ## Responsibilities
 
